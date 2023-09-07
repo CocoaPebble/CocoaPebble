@@ -1,25 +1,24 @@
-### Hi there 👋
-## <img width="50px" src="https://github.com/CocoaPebble/CocoaPebble/assets/34469646/bff3065b-b5aa-44ca-999b-d649a6db8960" /> 
-
-Hi, I'm Yingzhou Jiang!
+### Hi there I'm Yingzhou Jiang!👋
+<!-- ## <img width="50px" src="https://github.com/CocoaPebble/CocoaPebble/assets/34469646/bff3065b-b5aa-44ca-999b-d649a6db8960" />  -->
 
 ## 🧠 That I know and use
 ### 📚 Languages and Frameworks
-- HTML5, CSS3, 
+
+- HTML5, CSS3, Sass
 - Material-ui, Tailwind, Bootstrap
 - JavaScript, TypeScript
 - Express.js, Three.js
 - React, Redux, React-Router, Next.js, 
 - Jest, React-Testing-Library
-- Python3, numpy, PyQt
+- Python3, Numpy, PyTorch, Open3D, PyQt
 - Django, Flask
 
 ### 🔧 Tool
-- Version Control(Git/it-Flow)
+- Version Control(Git)
 - Test Driven Developer
 - MongoDB, PostgreSQL
 - Google Cloud Platform, AWS S3, Docker
-  
+
 ## 💡 Projects
 <!-- - [Team of Pokemon](https://ms314006.github.io/team-of-pokemon/dist/)
 - [Hangman](https://ms314006.github.io/hangman/dist/)
@@ -28,8 +27,8 @@ Hi, I'm Yingzhou Jiang!
 - [Music player](https://ms314006.github.io/MP3_Player-With-React/dist/) -->
 
 ## 🔗 Get in touch
-- Linkedin: https://www.linkedin.com/in/yingzhou-jiang-58b17314b/
 - Email: yingzhouj2018@gmail.com
+- Linkedin: https://www.linkedin.com/in/yingzhou-jiang-58b17314b/
 - Twitter: https://twitter.com/YingzhouJiang
 
 <!-- - Personal site: http://ms314006.github.io/
